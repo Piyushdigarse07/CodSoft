@@ -12,4 +12,11 @@ and search any contact information of the user they store.
    To-Do List:<br>
    A To-Do List application is a useful project that helps users manage
  and organize their tasks efficiently. This project aims to create a GUI-based application using Python, allowing users to create, update, and track their to-do lists.<br>
- To-do lists offer a way to increase productivity, stopping you from forgetting things, helps prioritise tasks, manage tasks effectively, use time wisely and improve time management as well as workflow.
+ To-do lists offer a way to increase productivity, stopping you from forgetting things, helps prioritise tasks, manage tasks effectively, use time wisely and improve time management as well as workflow.<br>
+
+
+
+ Calculator:<br>
+ A calculator with basic arithmetic operations like addition, subtraction, multiplication and division 
+ Prompt the user to input two numbers and an operation choice.
+ Perform the calculation and display the result and makes the large calculation easy and optimized
